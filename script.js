@@ -1,5 +1,6 @@
 const inputBox = document.querySelector('#inputBox');
 const listContainer = document.querySelector('#list-container');
+
 function addTask(){
   if(inputBox.value === ''){
     alert('Please enter a task');
