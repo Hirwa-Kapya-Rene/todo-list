@@ -24,6 +24,10 @@
   margin-bottom: 20px;
 
 }
+.img{
+  margin-left: 10px;
+  width: 30px;
+}
 .row{
   display: flex;
   align-items: center;
