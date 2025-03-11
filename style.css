@@ -20,6 +20,9 @@
   padding: 40px 30px 70px;
   border-radius: 10px;
 }
+.todo-app:hover{
+  background: #14bb94;
+}
 .todo-app h2{
   color: #092765;
   display: flex;
