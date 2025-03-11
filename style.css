@@ -54,7 +54,10 @@
   font-family: 16px;
   cursor: pointer;
   border-radius: 40px;
-  
+}
+
+button:hover{
+  background-color: #b19b3a;
 }
 ul li{
   list-style: none;
@@ -100,7 +103,4 @@ border-radius: 50%;
 }
 ul li span:hover{
   background-color: #edeef0;
-}
-button:hover{
-  background-color: #b19b3a;
 }
