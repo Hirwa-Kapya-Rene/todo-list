@@ -9,6 +9,9 @@
   background: linear-gradient(135deg, #153677, #4e085f);
   padding: 10px;
 }
+.container:hover{
+  background: linear-gradient(135deg, #4e085f, #153677);
+}
 .todo-app{
   width: 100%;
   max-width: 540px;
