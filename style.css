@@ -101,3 +101,6 @@ border-radius: 50%;
 ul li span:hover{
   background-color: #edeef0;
 }
+button:hover{
+  background-color: #b19b3a;
+}
