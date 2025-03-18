@@ -12,6 +12,7 @@
 .container:hover{
   background: linear-gradient(135deg, #4e085f, #153677);
 }
+
 .todo-app{
   width: 100%;
   max-width: 540px;
