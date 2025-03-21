@@ -143,4 +143,4 @@ SELECT COUNT(*) AS match_null FROM matches WHERE home_score = away_score AND dat
 
 SELECT COUNT(*) AS match_défaites FROM matches WHERE home_score < away_score AND date >='2023-11-19' AND date <='2024-11-19' AND home_country_id = 60;
 
-SELECT COUNT(*) AS match_victoires FROM matches WHERE home_score > away_score AND date >='2022-11-19' AND date <='2023-11-19' AND home_country_id = 60;
+SELECT COUNT(*) AS match_victoires FROM matches WHERE home_score > away_score AND date >='2023-11-19' AND date <='2024-11-19' AND home_country_id = 60;
