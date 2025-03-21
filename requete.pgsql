@@ -133,7 +133,7 @@ SELECT COUNT(*) AS match_victoires FROM matches WHERE home_score > away_score AN
 
 ---2023-2024---
 
-SELECT COUNT(*) AS matchs_joués FROM matches WHERE date >= '2022-11-19' AND date <='2023-11-19' AND home_country_id = 60;
+SELECT COUNT(*) AS matchs_joués FROM matches WHERE date >= '2023-11-19' AND date <='2024-11-19' AND home_country_id = 60;
 
 SELECT SUM(home_score) AS buts_marqués FROM matches WHERE date >= '2022-11-19' AND date <='2023-11-19' and home_country_id = 60;
 
